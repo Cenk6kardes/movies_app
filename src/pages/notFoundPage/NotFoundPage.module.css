@@ -1,0 +1,26 @@
+.container {
+  background-color: rgba(52, 151, 151, 0.699);
+  height: 100vh;
+}
+.body {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+}
+
+.title {
+  color: rgba(35, 122, 54, 0.74);
+  font-size: 6rem;
+  font-weight: 800;
+  border: 3px solid rgba(35, 122, 54, 0.74);
+  border-radius: 60%;
+  padding: 1rem 2rem 2rem 2rem;
+}
+
+.sentence {
+  font-size: 1.4rem;
+  font-weight: 400;
+  font-style: italic;
+  margin-bottom: 140px;
+}
